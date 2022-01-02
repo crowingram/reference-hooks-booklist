@@ -1,6 +1,6 @@
 # reference-hooks-booklist
 
-This project is based on a tutorial series ("React Context & Hooks Tutorial")[https://www.youtube.com/playlist?list=PL4cUxeGkcC9hNokByJilPg5g9m2APUePI] in 21 parts from (The Net Ninja)[https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg].
+This project is based on a tutorial series ["React Context & Hooks Tutorial"](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hNokByJilPg5g9m2APUePI) in 21 parts from [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg).
 
 The original tutorial goes into explanation of class version of context then how to convert that to hooks syntax.
 
